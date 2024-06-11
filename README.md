@@ -2,6 +2,11 @@
 
 # Lab | Advanced Tableau Visualization
 
+
+Tableau Public Link - - https://public.tableau.com/views/Lab2Tableau_17181113251990/Histoire1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link 
+
+
+
 ### Learning Outcomes
 
 Upon completion of this lab, you will be able to:
